@@ -1,0 +1,18 @@
+#k1{
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr 1fr;
+  gap: 20px;
+  background-color: brown;
+  
+  
+}
+#k2{
+  width:auto;
+  height: auto;
+  border: 2px solid black;
+  padding: 20px;
+  background-color: chartreuse;
+  
+}
+
+
